@@ -1,0 +1,9 @@
+/* background image */
+body{
+    background-image: url("https://cdn.prod.website-files.com/6663fde7ec422ec8379fd8a8/66640ed3b521c251b54b106d_Thee-Sacred-Souls-Photos-4.jpg"); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-color:rgb(168, 113, 150)
+}
